@@ -43,3 +43,12 @@ if x == 1 {
   print("Hello, world!")
 }
 ```
+Ciao 
+= fsdfds 
+== Cors
+=== où
+
+$x=3^6$
+$ "df"= 55  $
+
+https://typst.app/docs/reference/symbols/sym/
