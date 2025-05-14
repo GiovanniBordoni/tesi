@@ -52,3 +52,6 @@ $x=3^6$
 $ "df"= 55  $
 
 https://typst.app/docs/reference/symbols/sym/
+
+
+Ultima cosa
